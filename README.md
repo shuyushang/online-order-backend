@@ -11,5 +11,5 @@ A React, Spring, and Hibernate Based Online Food Ordering System
 * Deployed the application to Amazon Web Service.
 
 ## Online Demo
-[Start Ordering Now!](ec2-52-15-175-252.us-east-2.compute.amazonaws.com)
+[Start Ordering Now!](http://ec2-52-15-175-252.us-east-2.compute.amazonaws.com)
 
