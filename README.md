@@ -1,4 +1,4 @@
-# Online Order Project
+# Back End of the Online Food Ordering System 
 
 A React, Spring, and Hibernate Based Online Food Ordering System
 
@@ -11,7 +11,7 @@ A React, Spring, and Hibernate Based Online Food Ordering System
 * Deployed the application to Amazon Web Service.
 
 ## About the Frontend
-The frontend of the OnlineOrder application, merged into its backend here, has been compiled together as a docker image and deployed to the Amazon Web Services (AWS). Please check out the [online-order-front](https://github.com/shuyushang/online-order-frontend.git) for more details!
+The frontend of the OnlineOrder application, merged into its backend here, has been compiled together as a docker image and deployed to the Amazon Web Services (AWS). Please check out the [online-order-frontend](https://github.com/shuyushang/online-order-frontend.git) for more details!
 
 ## Online Demo
 [Start Ordering Now!](http://ec2-52-15-175-252.us-east-2.compute.amazonaws.com)
